@@ -2,6 +2,29 @@ html {
     font-size: 1.5em; 
 }
 
+@media all and (min-width:1000px) { 
+    html { 
+        font-size: 24px; 
+    } 
+}
+@media all and (max-width:520px) { 
+    html{ 
+        font-size: 18px; 
+    } 
+
+    main {
+        margin: 1.5rem;
+        padding: 0;
+    }
+
+    header { 
+        float: inherit;
+        position: inherit;
+        width: 100%;
+        text-align: left;
+    }
+}
+
 body {
     font-family: 'EB Garamond', Times, 'Times New Roman', serif;
     margin-left:auto;
