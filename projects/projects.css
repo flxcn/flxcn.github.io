@@ -9,11 +9,11 @@ html {
 }
 @media all and (max-width:520px) { 
     html{ 
-        font-size: 1.25em; 
+        font-size: 1em; 
     } 
 
     main {
-        margin: 0.75rem;
+        margin: 0.9rem;
         padding: 0;
     }
 
