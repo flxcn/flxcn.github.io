@@ -6,6 +6,10 @@
     .bio {
       width: 100% !important;
     }
+
+    .name {
+      text-align: left !important;
+    }
 }
 
 a {
