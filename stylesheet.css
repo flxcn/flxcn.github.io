@@ -2,6 +2,10 @@
     .profile-img {
       display: none;
     }
+
+    .bio {
+      width: 100% !important;
+    }
 }
 
 a {
