@@ -1,3 +1,9 @@
+@media (max-width: 600px) {
+    .profile-img {
+      display: none;
+    }
+}
+
 a {
   color: #1772d0;
   text-decoration: none;
